@@ -7,3 +7,6 @@ Hy you all guys. This GitHub repository consists of three files.
 * "datapreprocessing.ipynb" is the notebook that permits you to isolate certain part of the songs (e.g. I've picked the choruses)
 * "choruses_generator.ipynb" is the notebook that permits you to write choruses, in a very simple way.
 
+Enjoy it! 
+
+Piero.
